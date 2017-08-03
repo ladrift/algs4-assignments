@@ -1,4 +1,4 @@
-# Algotithms assignment from Cousera on-line course.
+# Programming Assignments of Algorithms (4th edition) course at Coursera.
 
 Programming Assignments' Specifications:
 
