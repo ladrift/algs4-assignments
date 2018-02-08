@@ -51,3 +51,35 @@ specification: http://coursera.cs.princeton.edu/algs4/assignments/wordnet.html
 checklist: http://coursera.cs.princeton.edu/algs4/checklists/wordnet.html
 
 testing data: http://coursera.cs.princeton.edu/algs4/testing/wordnet-testing.zip
+
+### Seam Carving
+
+specification: http://coursera.cs.princeton.edu/algs4/assignments/seam.html
+
+checklist: http://coursera.cs.princeton.edu/algs4/checklists/seam.html
+
+testing data: http://coursera.cs.princeton.edu/algs4/testing/seam-testing.zip
+
+### Baseball Elimination
+
+specification: http://coursera.cs.princeton.edu/algs4/assignments/baseball.html
+
+checklist: http://coursera.cs.princeton.edu/algs4/checklists/baseball.html
+
+testing data: http://coursera.cs.princeton.edu/algs4/testing/baseball-testing.zip
+
+### Boggle
+
+specification: http://coursera.cs.princeton.edu/algs4/assignments/boggle.html
+
+checklist: http://coursera.cs.princeton.edu/algs4/checklists/boggle.html
+
+testing data: http://coursera.cs.princeton.edu/algs4/testing/boggle-testing.zip
+
+### Burrows-Wheeler Data Compression
+
+specification: http://coursera.cs.princeton.edu/algs4/assignments/burrows.html
+
+checklist: http://coursera.cs.princeton.edu/algs4/checklists/burrows.html
+
+testing data: http://coursera.cs.princeton.edu/algs4/testing/burrows-testing.zip

@@ -2,3 +2,4 @@
 out
 .idea
 *.class
+.DS_Store
